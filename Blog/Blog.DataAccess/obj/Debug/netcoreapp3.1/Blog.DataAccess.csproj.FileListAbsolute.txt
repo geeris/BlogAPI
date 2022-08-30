@@ -1,0 +1,16 @@
+C:\Users\geri\source\repos\Blog\Blog.DataAccess\bin\Debug\netcoreapp3.1\Blog.DataAccess.deps.json
+C:\Users\geri\source\repos\Blog\Blog.DataAccess\bin\Debug\netcoreapp3.1\Blog.DataAccess.runtimeconfig.json
+C:\Users\geri\source\repos\Blog\Blog.DataAccess\bin\Debug\netcoreapp3.1\Blog.DataAccess.runtimeconfig.dev.json
+C:\Users\geri\source\repos\Blog\Blog.DataAccess\bin\Debug\netcoreapp3.1\Blog.DataAccess.dll
+C:\Users\geri\source\repos\Blog\Blog.DataAccess\bin\Debug\netcoreapp3.1\Blog.DataAccess.pdb
+C:\Users\geri\source\repos\Blog\Blog.DataAccess\bin\Debug\netcoreapp3.1\Blog.Domain.dll
+C:\Users\geri\source\repos\Blog\Blog.DataAccess\bin\Debug\netcoreapp3.1\Blog.Domain.pdb
+C:\Users\geri\source\repos\Blog\Blog.DataAccess\obj\Debug\netcoreapp3.1\Blog.DataAccess.csproj.AssemblyReference.cache
+C:\Users\geri\source\repos\Blog\Blog.DataAccess\obj\Debug\netcoreapp3.1\Blog.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geri\source\repos\Blog\Blog.DataAccess\obj\Debug\netcoreapp3.1\Blog.DataAccess.AssemblyInfoInputs.cache
+C:\Users\geri\source\repos\Blog\Blog.DataAccess\obj\Debug\netcoreapp3.1\Blog.DataAccess.AssemblyInfo.cs
+C:\Users\geri\source\repos\Blog\Blog.DataAccess\obj\Debug\netcoreapp3.1\Blog.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\geri\source\repos\Blog\Blog.DataAccess\obj\Debug\netcoreapp3.1\Blog.DataAccess.csproj.CopyComplete
+C:\Users\geri\source\repos\Blog\Blog.DataAccess\obj\Debug\netcoreapp3.1\Blog.DataAccess.dll
+C:\Users\geri\source\repos\Blog\Blog.DataAccess\obj\Debug\netcoreapp3.1\Blog.DataAccess.pdb
+C:\Users\geri\source\repos\Blog\Blog.DataAccess\obj\Debug\netcoreapp3.1\Blog.DataAccess.genruntimeconfig.cache
