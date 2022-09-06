@@ -2,6 +2,7 @@
 using Blog.Application.UseCases.DTO;
 using Blog.DataAccess;
 using Blog.Domain;
+using FluentValidation;
 using Blog.Implementation.Validation;
 using System;
 using System.Collections.Generic;
